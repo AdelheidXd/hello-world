@@ -6,4 +6,4 @@ let see what comes out of this
 
 import lib.arrays, lib.functions
 
-lib.functions.printlist(lib.arrays.H_W)
+print(lib.functions.printlist(lib.arrays.H_W))
